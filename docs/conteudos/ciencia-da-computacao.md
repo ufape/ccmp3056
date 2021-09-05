@@ -18,7 +18,7 @@ Vamos conversar um pouco do que é Ciência da Computação e quais são os obje
 
 O cientista da Computação deve ser capaz de resolver problemas do mundo real, ou seja, apresentar uma estrutura lógico-matemática que possibilite a resolução de um problema, de forma computacional.
 
-## Habilidades básicas:
+## Habilidades básicas
 
 - Interesse particular por **matemática**;
 - Formular um problema do mundo real em termos computacionais;
@@ -57,15 +57,15 @@ Uma lista de instruções para resolver um problema;
 ## Linguagens de Progamação
 
 - Linguagens formais, precisas, cujas instruções podem ser executadas por um computador.
-    - Linguagem de programação de baixo nível;
-        - Linguagem de máquina
-        - Assembly (linguagem de montagem)
-    - Linguagem de alto nível
+    - Linguagem de programação de baixo nível:
+        - Linguagem de máquina;
+        - Assembly (linguagem de montagem);
+    - Linguagem de alto nível:
         - Python;
         - Java;
-        - C/C++
-        - JavaScript
-        - Ruby
+        - C/C++;
+        - JavaScript;
+        - Ruby;
         - ...
 
 ## Linguagens interpretadas
