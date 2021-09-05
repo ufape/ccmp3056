@@ -104,6 +104,12 @@ Tudo isso deixa a questão do processo judicial entre a Apple e a Microsoft, aqu
 
 Também vale a pena mencionar outro sistema de janelas, o 'X Window System'. Ele foi desenvolvido no MIT, a partir de 1984, para uso em estações de trabalho gráfico. Devido em grande parte à disponibilidade do código-fonte usado para escrevê-lo, ele se tornou a interface gráfica padrão em muitos sistemas baseados em Unix - incluindo a maioria das distribuições Linux. Embora o X Window System forneça funcionalidade para desenhar e mover janelas na tela e também para fornecer um cursor do mouse, ele não fornece nenhum dos recursos de interface do usuário (como botões, menus, barras de título de janela e assim por diante) que as pessoas esperam. Esses recursos são fornecidos por outros softwares, gerenciadores de janelas, kits de ferramentas gráficas e semelhantes. Os ambientes de desktop gráficos mais populares no Linux contam com o X Window System, mas também fornecem todos os outros recursos próprios - fornecendo assim uma interface integrada e uniforme para o usuário. Os mais populares deles são KDE e GNOME. Os usuários do Solaris possuem CDE, que fornece funcionalidade semelhante para suas estações de trabalho.
 
+
+## Histórico
+
+
+
+
 ---
 
 **Referências**

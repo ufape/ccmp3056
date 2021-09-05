@@ -1,4 +1,18 @@
-# Aritmética Binária
+# O sistema binário
+
+No sistema de base dez, cada posição em uma representação está associada com uma quantidade.
+
+A posição de cada dígito na notação binária está associada também com uma quantidade, exceto que a quantidade associada com cada posição é duas vezes a quantidade associada com a posição à sua direita.
+
+![](../img/fig_1.15_sistema_base_dez_sistema_binario.png){width=70%}</br>
+*Fig. 1.15 Sistema de base dez e sistema binário*
+
+Para extrair o valor representado por uma representação binária, seguimos o mesmo procedimento usado com a base dez – multiplicamos o valor de cada dígito pela quantidade associada com sua posição e adicionamos os resultados. Por exemplo, o valor representado por 100101 é 37.
+
+![](../img/fig_1.16_decod_representacao_binaria_100101.png){width=40%}</br>
+*Fig. 1.16 Decodificação da representação binária 100101.*
+
+## Aritmética Binária
 
 Assuntos:
 
