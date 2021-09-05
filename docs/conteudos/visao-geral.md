@@ -169,3 +169,7 @@ O egresso do curso de Bacharelado em Ciência da Computação deve estar prepara
 Fonte: [e-MEC](https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/MjUyNzU=/9f1aa921d96ca1df24a34474cc171f61/NjM=)
 
 A nota IGC (0 a 5) do curso de Bacharelado em Ciência da Computação da UFAPE é 4, segundo a Folha.
+
+## Referências
+
+UFAPE. Projeto Pedagógico de Curso do Bacharelado em Ciência da Computação. 2013. V. 3.3. Disponível em: [https://github.com/sftom/bccppc/blob/master/bccppc.pdf](https://github.com/sftom/bccppc/blob/master/bccppc.pdf). Acesso em: 4 set. 2021.

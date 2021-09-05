@@ -4,7 +4,6 @@ nav:
   - 'Home': 'index.md'
   - 'Cronograma': 'cronograma/index.md'
   - 'Conteúdos':
-    - 'Introdução': 'conteudos/index.md'
     - 'Visão geral': 'conteudos/visao-geral.md'
     - 'História da computação': 'conteudos/historia-computacao.md'
     - 'Tecnologias e aplicações': 'conteudos/tecnologias-aplicacoes.md'

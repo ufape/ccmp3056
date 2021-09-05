@@ -14,7 +14,7 @@ Na idade antiga, muitos povos já utilizavam o Ábaco para realizar cálculos vo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-pnBq4eQzY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Uma breve visão geral do *Hardware*
+## Visão geral do *Hardware*
 
 A computação moderna provavelmente pode ser rastreada até o ‘Harvard Mk I’ e o Colossus (ambos de 1943).
 
@@ -32,25 +32,25 @@ Os computadores da primeira geração eram normalmente baseados em circuitos com
 
 Outro computador de uso geral dessa época foi o ‘ENIAC’ (Integrador Numérico Eletrônico e Computador) que foi concluído em 1946.
 
-Era típico de computadores de primeira geração, pesava 30 toneladas, continha 18.000 válvulas eletrônicas e consumia cerca de 25KW de energia elétrica.
+Era típico de computadores de primeira geração, pesava 30 toneladas, continha 18.000 válvulas eletrônicas e consumia cerca de 25KW de energia elétrica. No entanto, era capaz de fazer incríveis 100.000 cálculos por segundo.
 
-No entanto, era capaz de fazer incríveis 100.000 cálculos por segundo.
-
-O próximo grande passo na história da computação foi a invenção do transistor em 1947.
-
-Isso substituiu as válvulas ineficientes por um componente muito menor e mais confiável.
-
-Os computadores transistorizados são normalmente chamados de ‘Segunda Geração’ e dominaram o final da década de 1950 e o início da década de 1960.
+O próximo grande passo na história da computação foi a invenção do transistor em 1947. Isso substituiu as válvulas ineficientes por um componente muito menor e mais confiável. Os computadores transistorizados são normalmente chamados de ‘Segunda Geração’ e dominaram o final da década de 1950 e o início da década de 1960.
 
 Apesar de usar transistores e circuitos impressos, esses computadores ainda eram volumosos e estritamente de domínio de universidades e governos.
 
-A explosão no uso de computadores começou com os computadores da ‘Terceira Geração’. Estes se basearam na invenção de Jack St. Claire Kilby - o circuito integrado ou microchip; o primeiro circuito integrado foi produzido em setembro de 1958, mas os computadores que os utilizavam não começaram a aparecer até 1963. Enquanto grandes ‘mainframes’ como o IBM 360 aumentaram ainda mais as capacidades de armazenamento e processamento, o circuito integrado permitiu o desenvolvimento de mini-computadores que começaram a levar a computação para muitas empresas menores. A integração de circuitos em grande escala levou ao desenvol- vimento de unidades de processamento muito pequenas. Um exemplo inicial disso é o processador usado para analisar dados de voo no jato de combate F14A ‘TomCat ’da Marinha dos EUA. Este processador foi desenvolvido por Steve Geller, Ray Holt e uma equipe da AiResearch e American Microsystems.
+A explosão no uso de computadores começou com os computadores da ‘Terceira Geração’. Estes se basearam na invenção de Jack St. Claire Kilby - o circuito integrado ou microchip; o primeiro circuito integrado foi produzido em setembro de 1958, mas os computadores que os utilizavam não começaram a aparecer até 1963. 
 
-Em 15 de novembro de 1971, a Intel lançou o primeiro microprocessador comercial do mundo, o 4004. Os computadores de quarta geração foram desenvolvidos, usando um microprocessador para localizar grande parte das habilidades de processamento do computador em um único (pequeno) chip. Juntamente com uma das invenções da Intel - o chip RAM (quilobits de memória em um único chip) - o microprocessador permitiu que os computadores de quarta geração fossem ainda menores e mais rápidos do que nunca. O 4004 era capaz de apenas 60.000 instruções por segundo, mas os processadores posteriores (como o 8086 que todos os processadores da Intel para o IBM PC e compatíveis se baseiam) trouxeram velocidade e potência cada vez maiores para os computadores. Os supercomputadores da época eram imensamente poderosos, como o Cray-1, que podia calcular 150 milhões de operações de ponto flutuante por segundo. O microprocessador permitiu o desenvolvimento de microcomputadores, computadores pessoais que eram pequenos e baratos o suficiente para estarem disponíveis para as pessoas comuns. O primeiro computador pessoal foi o MITS Altair 8800, lançado no final de 1974, mas foi seguido por computadores como o Apple I e II, Commodore PET e, por fim, o IBM PC original em 1981.
+Enquanto grandes ‘mainframes’ como o IBM 360 aumentaram ainda mais as capacidades de armazenamento e processamento, o circuito integrado permitiu o desenvolvimento de mini-computadores que começaram a levar a computação para muitas empresas menores. 
+
+A integração de circuitos em grande escala levou ao desenvol- vimento de unidades de processamento muito pequenas. Um exemplo inicial disso é o processador usado para analisar dados de voo no jato de combate F14A ‘TomCat ’da Marinha dos EUA. Este processador foi desenvolvido por Steve Geller, Ray Holt e uma equipe da AiResearch e American Microsystems.
+
+Em 15 de novembro de 1971, a Intel lançou o primeiro microprocessador comercial do mundo, o 4004. Os computadores de quarta geração foram desenvolvidos, usando um microprocessador para localizar grande parte das habilidades de processamento do computador em um único (pequeno) chip. Juntamente com uma das invenções da Intel - o chip RAM (quilobits de memória em um único chip) - o microprocessador permitiu que os computadores de quarta geração fossem ainda menores e mais rápidos do que nunca. O 4004 era capaz de apenas 60.000 instruções por segundo, mas os processadores posteriores (como o 8086 que todos os processadores da Intel para o IBM PC e compatíveis se baseiam) trouxeram velocidade e potência cada vez maiores para os computadores. Os supercomputadores da época eram imensamente poderosos, como o Cray-1, que podia calcular 150 milhões de operações de ponto flutuante por segundo. 
+
+O microprocessador permitiu o desenvolvimento de microcomputadores, computadores pessoais que eram pequenos e baratos o suficiente para estarem disponíveis para as pessoas comuns. O primeiro computador pessoal foi o MITS Altair 8800, lançado no final de 1974, mas foi seguido por computadores como o Apple I e II, Commodore PET e, por fim, o IBM PC original em 1981.
 
 Embora o poder de processamento e as capacidades de armazenamento tenham aumentado além de todo o reconhecimento desde a década de 1970, a tecnologia subjacente de microchips LSI (integração em grande escala) ou VLSI (integração em muito grande escala) permaneceu basicamente a mesma, então é amplamente considerado que a maioria dos computadores de hoje ainda pertencem à quarta geração.
 
-## Uma breve visão geral do histórico da *Internet*
+## Visão geral do histórico da *Internet*
 
 A história da Internet pode ser rastreada até a ARPANET - que foi iniciada pelo Departamento de Defesa dos Estados Unidos para pesquisas em redes em algum momento de 1969.
 Muitas pessoas queriam colocar suas ideias nos padrões de comunicação entre os computadores que compunham essa rede, então um sistema foi desenvolvido para apresentar ideias. Basicamente, você escreveu suas ideias em um artigo chamado 'Request for Comments' (RFC, para abreviar) e deixou que todos os demais lessem. As pessoas comentaram e aprimoraram suas ideias em novos RFCs. A primeira RFC (RFC0001) foi escrita em 7 de abril de 1969. Existem agora bem mais de 2.000 RFCs, descrevendo todos os aspectos de como a Internet funciona.
@@ -76,10 +76,17 @@ A interface gráfica abriu a internet para usuários novatos e em 1993 seu uso e
 
 ## Uma breve história dos Sistemas de Janelas
 
-O primeiro conceito de um sistema de janelas (ou WIMP - janelas, ícones, menus e ponteiros) apareceu dentro do Centro de Pesquisas de Palo Alto (PARC) da Xerox em 1973. O computador 'Alto' só estava disponível internamente, não foi até 1981 que A Xerox lançou a versão refinada para o mundo: o sistema 8010 ('Star'). Essa ideia foi então usada pela Apple, primeiro para o Applie 'LISA', e depois novamente em 1984, quando eles desenvolveram o sistema operacional MacOS para uso em seu Apple Macintosh. A Microsoft seguiu em frente, lançando a primeira versão do 'Windows' em 1985. O Windows era uma GUI (interface gráfica do usuário) para seu próprio sistema operacional (MS-DOS) que vinha com IBM PC e computadores compatíveis desde 1981. O Windows foi projetado parecia um pouco com o MacOS, mas infelizmente era tão semelhante que a Apple decidiu levar a Microsoft ao tribunal por causa disso .. um processo que duraria muitos anos.
-Esta primeira versão do Windows não era muito poderosa e, portanto, não muito popular. A popularidade aumentou com o lançamento do Windows 2 em 1987. A primeira versão realmente popular do Microsoft Windows foi a versão 3.0, lançada em 1990. Esta se beneficiou dos gráficos aprimorados disponíveis nos PCs nessa época, e também do processador 80386 que permitia 'true 'multitarefa dos aplicativos do Windows. Isso o tornou mais eficiente e confiável ao executar mais de um software por vez. Ele até permitiria a execução e multitarefa de softwares baseados em MS-DOS mais antigos. O Windows 3 fez do IBM PC uma competição séria para o Mac da Apple. Várias melhorias - Windows 3.1 e Windows 3.11 foram lançadas, embora para o usuário fossem muito semelhantes ao Windows 3.
+O primeiro conceito de um sistema de janelas (ou WIMP - janelas, ícones, menus e ponteiros) apareceu dentro do Centro de Pesquisas de Palo Alto (PARC) da Xerox em 1973. O computador 'Alto' só estava disponível internamente, não foi até 1981 que A Xerox lançou a versão refinada para o mundo: o sistema 8010 ('Star'). 
 
-Também disponível em uma época semelhante ao Windows 3 estava o OS / 2 da IBM (que na verdade foi escrito em parceria com a Microsoft). Isso foi seguido pelo OS / 2 Warp, que era um sistema operacional completo de 32 bits projetado exclusivamente para os processadores 80386 e melhores. Ele foi lançado muito antes do Windows 95 e contava com muitos recursos semelhantes. Infelizmente, a IBM falhou em comercializá-lo com sucesso suficiente e não pegou.
+Essa ideia foi então usada pela Apple, primeiro para o Applie 'LISA', e depois novamente em 1984, quando eles desenvolveram o sistema operacional MacOS para uso em seu Apple Macintosh. 
+
+A Microsoft seguiu em frente, lançando a primeira versão do 'Windows' em 1985. O Windows era uma GUI (interface gráfica do usuário) para seu próprio sistema operacional (MS-DOS) que vinha com IBM PC e computadores compatíveis desde 1981. O Windows foi projetado um pouco parecido com o MacOS, mas infelizmente era tão semelhante que a Apple decidiu levar a Microsoft ao tribunal por causa disso... um processo que duraria muitos anos.
+
+Esta primeira versão do Windows não era muito poderosa e, portanto, não era muito popular. A popularidade aumentou com o lançamento do Windows 2 em 1987. A primeira versão realmente popular do Windows foi a versão 3.0, lançada em 1990. 
+
+Esta versão 3.0 do Windows se beneficiou dos gráficos aprimorados disponíveis nos PCs nessa época, e também do processador 80386 que permitia multitarefa '**verdadeiras**' dos aplicativos do Windows. Isso o tornou mais eficiente e confiável ao executar mais de um software por vez. O Windows até permitia a execução e multitarefa de softwares baseados em MS-DOS mais antigos. O Windows 3.0 fez do IBM PC um competidor sério para o Mac da Apple. Várias melhorias - Windows 3.1 e Windows 3.11 foram lançadas, embora para o usuário fossem muito semelhantes ao Windows 3.0.
+
+Também disponível em uma época semelhante ao Windows 3.0 estava o OS/2 da IBM (escrito em parceria com a Microsoft). Isso foi seguido pelo OS/2 Warp, que era um sistema operacional completo de 32 bits projetado exclusivamente para os processadores 80386 e melhores. Ele foi lançado muito antes do Windows 95 e contava com muitos recursos semelhantes. Infelizmente, a IBM falhou em comercializá-lo com sucesso suficiente e não pegou.
 
 O Windows 95 foi lançado em 1995 (sem surpresas), em agosto. Embora compartilhasse muito código com o Windows 3 e até com o MS-DOS, o Windows 95 tinha duas grandes vantagens. Primeiro, era um sistema operacional inteiro, você não precisava mais comprar o MS-DOS e depois instalar o Windows em cima dele. Em segundo lugar, ele foi especialmente escrito para processadores 80386 e melhores e fez uso 'total' dos recursos de 32 bits. Nesse aspecto, o Windows 95 se aproximou do Windows NT.
 
