@@ -3,7 +3,11 @@
 Universidade Federal do Agreste de Pernambuco</br>
 Ciência da Computação
 
-![Photo by RoonZ on Unsplash](img/roonz-2xEQDxB0ss4-unsplash.jpg){width=70%}
+![Photo by RoonZ on Unsplash](img/roonz-2xEQDxB0ss4-unsplash.jpg "Photo by RoonZ on Unsplash"){width=70%}
+
+<figcaption>
+Photo by <a href="https://unsplash.com/@dlanor_s?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">RoonZ</a> on <a href="https://unsplash.com/collections/11521439/coding?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</figcaption>
 
 ## Introdução à Computação
 
