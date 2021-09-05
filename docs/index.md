@@ -3,7 +3,7 @@
 Universidade Federal do Agreste de Pernambuco</br>
 Ciência da Computação
 
-![Photo by RoonZ on Unsplash](/img/roonz-2xEQDxB0ss4-unsplash.jpg){width=70%}
+![Photo by RoonZ on Unsplash](img/roonz-2xEQDxB0ss4-unsplash.jpg){width=70%}
 
 ## Introdução à Computação
 
