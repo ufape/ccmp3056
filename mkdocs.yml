@@ -5,6 +5,7 @@ nav:
   - 'Cronograma': 'cronograma/index.md'
   - 'Conteúdos':
     - 'Visão geral': 'conteudos/visao-geral.md'
+    - 'Ciência da Computação': 'conteudos/ciencia-da-computacao.md'
     - 'História da computação': 'conteudos/historia-computacao.md'
     - 'Tecnologias e aplicações': 'conteudos/tecnologias-aplicacoes.md'
     - 'Representação e processamento da informação': 'conteudos/representacao-processamento-da-informacao.md'
@@ -45,8 +46,12 @@ markdown_extensions:
   - admonition
   - attr_list
   - pymdownx.highlight
-  - pymdownx.superfences
   - pymdownx.critic
+  - pymdownx.superfences:
+      custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.emoji:
