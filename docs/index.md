@@ -17,9 +17,6 @@ Photo by <a href="https://unsplash.com/@dlanor_s?utm_source=unsplash&utm_medium=
 
 História da computação. Tecnologias e aplicações de computadores. Introdução à ciência da computação. Tecnologia da informação. Representação e processamento da informação. Sistemas de numeração. Aritmética binária. Portas lógicas. Arquitetura de computadores. Unidade central de processamento. Memória. Sistemas de entrada e saída. Classificações de hardware e software.
 
-
-
-
 ### Objetivos de aprendizagem 
 
 Ao final da disciplina o estudante será capaz de:
@@ -52,8 +49,9 @@ A disciplina será ministrada através da plataforma para aprendizagem:
 
 Livros-textos adotados nas disciplinas disponíveis na: 
 
-- [Minha Biblioteca](https://dliportal.zbra.com.br/Login.aspx?key=UFRPE) :books:
-    + [Tutorial de acesso à Minha Biblioteca](http://www.sib.ufrpe.br/tutoriais-minhabiblioteca)
+- Na Biblioteca da Universidade
+- <del>Minha Biblioteca</del> ([Informes e links úteis](http://ufape.edu.br/br/comunicado/acesso-ao-servi%C3%A7os-sistema-integrados-bibliotecas-ufrpe)) :books:
+    + <del>Tutorial de acesso à Minha Biblioteca</del>
 
 #### Básica
 
