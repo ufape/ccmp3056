@@ -17,6 +17,8 @@ nav:
 theme:
   name: material
   language: pt
+  features:
+    - navigation.expand
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
