@@ -116,13 +116,13 @@ A parte da Internet com a qual a maioria das pessoas provavelmente está mais fa
 ## O primeiro site da história
 
 !!! info "Primeiro site da história estreava há 30 anos"
-    ![Primeiro site da história](/img/primeiro-site-na-internet.png)
+    ![Primeiro site da história](../img/primeiro-site-na-internet.png)
     Disponível em: [http://info.cern.ch/hypertext/WWW/TheProject.html]("Disponível em: http://info.cern.ch/hypertext/WWW/TheProject.html"). Acesso em 11 ago. 2021.
 
 ## A primeira foto postada na Internet
 
 !!! info "Primeira foto postada na Internet"
-    ![Primeira foto postada na internet](/img/primeira-foto-na-internet.png)
+    ![Primeira foto postada na internet](../img/primeira-foto-na-internet.png)
     Disponível em: [https://canaltech.com.br/internet/primeira-foto-postada-na-internet-conheca-a-curiosa-historia-desse-marco-da-web-192155/](https://canaltech.com.br/internet/primeira-foto-postada-na-internet-conheca-a-curiosa-historia-desse-marco-da-web-192155/). Acesso em 11 ago. 2021.
 
 

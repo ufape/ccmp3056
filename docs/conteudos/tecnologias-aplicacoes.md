@@ -83,7 +83,7 @@ Afetado por:
     - Sistemas de Software;
     - Hardware
 
-![Copyright © 2009 Elsevier, Inc. All rights reserved.](/img/applicationsoftware.jpeg)
+![Copyright © 2009 Elsevier, Inc. All rights reserved.](../img/applicationsoftware.jpeg)
 
 <figcaption>Copyright © 2009 Elsevier, Inc. All rights reserved.</figcaption>
 
@@ -99,7 +99,7 @@ Afetado por:
 - Montador: responsável por traduzir instruções simbólicas para binário (instruções de máquina).
 - Sistema Operacional: é responsável pela supervisão e controle dos recursos de um computador ao executar programas (instruções de vídeo, alocação de memória, impressão, pendrives\ldots).
 
-![O processo de compilação/tradução de uma instrução de alto nível em binário.](/img/The-translation-process-of-high-level-programs.png){height=70%}
+![O processo de compilação/tradução de uma instrução de alto nível em binário.](../img/The-translation-process-of-high-level-programs.png){height=70%}
 
 <figcaption>O processo de compilação/montagem de uma instrução de alto nível em linguagem de máquina.</figcaption>
 
@@ -133,7 +133,7 @@ Afetado por:
 
 ## Lei de Moore
 
-![Gráfico mostra o aumento no número de transístores em processadores, de 1971 a 2016. (Fonte: Wikipedia).](/img/Moores_Law_Transistor_Count_1971-2016-1060x774.png){height=67%}
+![Gráfico mostra o aumento no número de transístores em processadores, de 1971 a 2016. (Fonte: Wikipedia).](../img/Moores_Law_Transistor_Count_1971-2016-1060x774.png){height=67%}
 
 <figcaption>Gráfico mostra o aumento no número de transístores em processadores, de 1971 a 2016. (Fonte: Wikipedia).</figcaption>
 
