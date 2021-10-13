@@ -8,10 +8,11 @@ nav:
     - 'Ciência da Computação': 'conteudos/ciencia-da-computacao.md'
     - 'História da computação': 'conteudos/historia-computacao.md'
     - 'Tecnologias e aplicações': 'conteudos/tecnologias-aplicacoes.md'
+    - 'Álgebra Booleana': 'conteudos/algebra-booleana.md'
+    - 'Eletrônica Digital': 'conteudos/eletronica-digital-conceitos-basicos.md'
     - 'Representação e processamento da informação': 'conteudos/representacao-processamento-da-informacao.md'
     - 'Introdução à Ciência da Computação': 'conteudos/introducao-ciencia-computacao.md'
     - 'Aritmética Binária': 'conteudos/aritmetica-binaria.md'
-    - 'Álgebra Booleana': 'conteudos/algebra-booleana.md'
   - 'Atividades': 'atividades/semana1.md'
 
 theme:
