@@ -57,16 +57,58 @@
 ## Álgebra de Boole
 
 - São definidas algumas operações elementares na álgebra de Boole:
-    - Inversora (Not) (CI7404)
-    - E (And) (CI7432)
-    - Ou (Or) (CI 7408)
-    - Nand (CI 7400)
-    - Xor (CI 7486)
-    - Nor 
-    - Xnor
+    - Inversora (Not) (CI7404 - seis inversores)
+    - E (And) (CI7408 - quatro portas AND de duas entradas) 
+    - Ou (Or) (CI 7432 - quatro portas Or de duas entradas)
+    - Nand (CI 7400 - quatro portas NAND de duas entradas)
+    - Xor (CI 7486 - quatro portas XOR de duas entradas)
+    - Nor (CI 7428 - quatro portas NOR de duas entradas)
+    - Xnor (CI 74266: quatro portas XNOR de duas entradas com coletor aberto)
 
+Mais informações sobre:
 
+- [Portas lógicas e tabelas verdade](https://pt.wikipedia.org/wiki/Porta_l%C3%B3gica)
+- [CI da série TTL 7400](https://pt.wikipedia.org/wiki/TTL_7400)
 
+### Teoremas booleanos
+
+Para uma única variável
+
+(1) $x \cdot 0 = 0$
+
+(2) $x \cdot 1 = x$
+
+(3) $x \cdot x = x$
+
+(4) $x \cdot \overline{x} = 0$
+
+(5) $x + 0 = x$
+
+(6) $x + 1 = 1$
+
+(7) $x + x = x$
+
+(8) $x + \overline{x} = 1$
+
+Para mais de uma variável
+
+(9) $x + y = y + x$
+
+(10) $x \cdot y = y \cdot x$
+
+(11) $x + (y + z) = (x + y) + z = x + y + z$
+
+(12) $x(yz) = (xy)z = xyz$
+
+(13a) $x(y + z) = xy + xz$
+
+(13b) $(w + x)(y + z) = wy + wz + xy + xz$
+
+(14) $x + xy = x$
+
+(15a) $x +\overline{x}y = x + y$
+
+(15b) $\overline{x} + xy = \overline{x} + y$
 
 ## Bibliografia
 
