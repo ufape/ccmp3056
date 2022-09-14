@@ -162,7 +162,8 @@ O egresso do curso de Bacharelado em Ciência da Computação deve estar prepara
 
 | Ano         | ENADE  | CPC  | CC   | IDD  |
 | :---------: | :----: | :--: | :--: | :--: |
-|   2017      | :material-check:  4    | 4    | -    | 4    |
+|   2021      |   4    | -    | -    | 4    |
+|   2017      |   4    | 4    | -    | 4    |
 |   2014      |   5    | 4    | -    | -    |
 |   2012      |   -    | -    | 4    | -    |
 
@@ -172,4 +173,4 @@ A nota IGC (0 a 5) do curso de Bacharelado em Ciência da Computação da UFAPE 
 
 ## Referências
 
-UFAPE. Projeto Pedagógico de Curso do Bacharelado em Ciência da Computação. 2013. V. 3.3. Disponível em: [https://github.com/sftom/bccppc/blob/master/bccppc.pdf](https://github.com/sftom/bccppc/blob/master/bccppc.pdf). Acesso em: 4 set. 2021.
+UFAPE. Projeto Pedagógico de Curso do Bacharelado em Ciência da Computação. 2013. V. 3.3. Disponível em: [https://github.com/ufape/bccppc/blob/master/bccppc.pdf](https://github.com/ufape/bccppc/blob/master/bccppc.pdf). Acesso em: 4 set. 2021.
